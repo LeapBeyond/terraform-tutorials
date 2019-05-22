@@ -1,5 +1,8 @@
-# terraform-tutorials
-A set of tutorial and example materials for Terraform.
+# Terraform Tutorials
+
+This repository has a set of tutorials and example materials for Terraform.
+
+They are availble at [https://github.com/LeapBeyond/terraform-tutorials/wiki](https://github.com/LeapBeyond/terraform-tutorials/wiki).
 
 ## License
 Copyright 2018 Leap Beyond Analytics
